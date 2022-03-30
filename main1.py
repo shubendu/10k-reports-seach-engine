@@ -170,6 +170,6 @@ class TableCategory:
                 final_ans[i][1] = temp
         return final_ans
     
-t1 = TableCategory("Assurant_10K_2020.pdf",89,96)
+t1 = TableCategory("Blackstone_2016.pdf",153,161)
 fr = t1.getting_result()
 print(fr)
