@@ -14,6 +14,8 @@ cash, cash equivalents, and restricted cash at end of period
 cash, cash equivalents, and restricted cash at end of year
 cash, cash equivalents, and restricted cash, end of period
 ending balance of cash and equivalents
-total cash, restricted cash, and equivalents
+
+#####new
+cash and cash equivalents, end of year
 
 balance at end of year		[This was under the sub-header:  'Cash and cash equivalents:']	
